@@ -6,4 +6,4 @@ Everything you need to work with UUSD in Utopia Ecosystem
 * [uexchange-go](https://github.com/Sagleft/uexchange-go) - Library for working with the exchange UUSD and Crypton written in Golang.
 
 ## For entrepreneurs
-No developments so far.
+* UtopiaPay: utopiapay
